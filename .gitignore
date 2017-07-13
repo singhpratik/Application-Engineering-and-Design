@@ -1,0 +1,6 @@
+/**/dist
+/**/*.db4o
+/**/build
+/**/*.mf
+/**/lib
+.DS_Store
